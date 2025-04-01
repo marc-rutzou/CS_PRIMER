@@ -1,0 +1,19 @@
+#TODO
+- py
+- cython
+- c++
+
+# Topics
+- profiling
+- Cython
+- C++ extensions
+
+Cython
+- write more like c, with range loops over i, type def, simple control flow etc, no list comprehension
+
+# Blog Questions:
+- why does just giving the type in cython give such a significant speedup
+    - b/c python does not need to infer the type anymore, so converting to pure C is easier
+
+#Open Questions:
+- better general interop between python lists and c arrays

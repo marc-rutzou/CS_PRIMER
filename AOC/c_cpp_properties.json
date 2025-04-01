@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/python3.x",  // Replace x with your Python version
+                "/opt/homebrew/opt/python@3.x/Frameworks/Python.framework/Headers"  // If using Homebrew
+            ]
+        }
+    ]
+} 

@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/opt/python@3/Frameworks/Python.framework/Headers",
+                "/opt/homebrew/opt/python@3/Frameworks/Python.framework/Headers"
+            ],
+            "macFrameworkPath": [],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+} 
