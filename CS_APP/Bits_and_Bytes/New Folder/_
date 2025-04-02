@@ -1,0 +1,30 @@
+
+with open('image-rotate/teapot.bmp', 'rb') as f:
+    # bm = f.read(2)
+    # print(int(bm[0]) // 16, int(bm[0]) % 16 )
+    # print(hex(bm[0]), hex(bm[1]))
+
+    file_header = f.read(14)
+    bm = file_header[:2]
+    size = file_header[2:4]
+    offset = file_header[10:]
+
+    print("bm: ", bm)
+    print("size: ", int.from_bytes(size, byteorder='little'))
+    print("offset: ", int.from_bytes(offset, byteorder='little'))
+    
+    # the rest of the header
+    dib_header = f.read(124)
+    print(dib_header)
+    size_of_this_header = dib_header[:4]
+    print(size_of_this_header)
+    width = dib_header[4:6]
+    height = dib_header[6:8]
+    color_panes = dib_header[8:10]
+    bits_per_pixel = dib_header[10:12]
+
+    print("size of dib header: ", int.from_bytes(size_of_this_header, byteorder='little'))
+
+    print("width: ", int.from_bytes(width, byteorder='little'))
+    print("height: ", int.from_bytes(height, byteorder='little'))
+    print("number of bits per pixel: ", int.from_bytes(bits_per_pixel, byteorder='little'))
