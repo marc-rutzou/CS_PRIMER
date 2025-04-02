@@ -12,3 +12,18 @@ Books + Courses:
 Blog Posts:
 * ✅ Performance Engineering: C++ Extensions for Python
 * 🔨 Data Management for GenAI: Building a scalable foundation
+
+Apps:
+* Streamlit chat interface to Confluence Weaviate integration
+* Mail server
+* Auction site
+
+Other Courses:
+* MIT Missing Semester (VIM + Bash)
+* CS50 + Web + SQL
+* Nand2Tetris
+* DeepLearning.ai
+* 61A Berkeley?
+* Reinforcement Learning Stanford
+* 
+
