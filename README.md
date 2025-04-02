@@ -14,9 +14,9 @@ Blog Posts:
 * 🔨 Data Management for GenAI: Building a scalable foundation
 
 Apps:
-* Streamlit chat interface to Confluence Weaviate integration
-* Mail server
-* Auction site
+* CHAT: Chat interface to Confluence Weaviate integration
+* MAIL: E-mail server
+* COMMERCE: Auction site
 
 Older Courses:
 * [MIT Missing Semester](https://missing.csail.mit.edu/)
