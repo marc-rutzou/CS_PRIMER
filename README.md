@@ -1,6 +1,6 @@
 Solutions to [CS Primer](https://csprimer.com/courses/) exercises accompanying the books on https://teachyourselfcs.com/.
 
-### Books + Courses:
+#### Books + Courses:
 * ✅ [Structure and Interpretation of Computer Programs (SICP)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) + [Programming: Beyond the Basics](https://csprimer.com/courses/programming/)
 * ✅ [Computer Systems: A Programmer's Perspective (CS:APP)](https://csapp.cs.cmu.edu/) + [Computer Systems](https://csprimer.com/courses/systems/)
 * ✅ [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science-dp-3030542556/dp/3030542556/) + [Algorithms and Data Structures](https://csprimer.com/courses/algorithms/)
@@ -9,16 +9,16 @@ Solutions to [CS Primer](https://csprimer.com/courses/) exercises accompanying t
 * 📅 [Readings in Database Systems (Red Book)](http://www.redbook.io/) + [Relational Databases](https://csprimer.com/courses/databases/)
 * 📅 [Designing Data-Intensive Applications (DDIA)](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/) + [Dystributed Systems](https://csprimer.com/courses/distributed-systems/)
 
-### Blog Posts:
+#### Blog Posts:
 * ✅ Performance Engineering: C++ Extensions for Python
 * 🔨 Data Management for GenAI: Building a scalable foundation
 
-### Apps:
+#### Apps:
 * 🔨 CHAT: Chat interface to Confluence Weaviate integration
 * (old) MAIL: E-mail server
 * (old) COMMERCE: Auction site
 
-### Older courses (not on git yet):
+#### Older courses (not on git yet):
 * [MIT Missing Semester](https://missing.csail.mit.edu/)
 * [VIM Adventures](https://vim-adventures.com/)
 * [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) + [Web](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript) + [SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
