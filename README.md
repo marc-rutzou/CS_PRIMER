@@ -22,6 +22,7 @@ Older finished courses:
 * [MIT Missing Semester](https://missing.csail.mit.edu/)
 * [VIM Adventures](https://vim-adventures.com/)
 * [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) + [Web](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript) + [SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
+* [Full Stack Open (FSO)](https://fullstackopen.com/en/)
 * [Nand2Tetris](https://www.nand2tetris.org/)
 * DeepLearning.ai: [DL](https://www.deeplearning.ai/courses/deep-learning-specialization/) + [NLP](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) + [GANs](https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/)
 * [ProgrammingExpert.io](https://www.programmingexpert.io)
