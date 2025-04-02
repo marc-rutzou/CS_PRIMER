@@ -15,8 +15,8 @@ Blog Posts:
 
 Apps:
 * 🔨 CHAT: Chat interface to Confluence Weaviate integration
-* ✅ MAIL: E-mail server
-* ✅ COMMERCE: Auction site
+* (old) MAIL: E-mail server
+* (old) COMMERCE: Auction site
 
 Older courses (not on git yet):
 * [MIT Missing Semester](https://missing.csail.mit.edu/)
