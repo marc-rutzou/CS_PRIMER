@@ -18,7 +18,7 @@ Apps:
 * ✅ MAIL: E-mail server
 * ✅ COMMERCE: Auction site
 
-Older finished courses:
+Older courses (not on git yet):
 * [MIT Missing Semester](https://missing.csail.mit.edu/)
 * [VIM Adventures](https://vim-adventures.com/)
 * [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) + [Web](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript) + [SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
