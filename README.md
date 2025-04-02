@@ -8,3 +8,7 @@ Books + Courses:
 * 📅 [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/) + [Computer Networks](https://csprimer.com/courses/networking/)
 * 📅 [Readings in Database Systems (Red Book)](http://www.redbook.io/) + [Relational Databases](https://csprimer.com/courses/databases/)
 * 📅 [Designing Data-Intensive Applications (DDIA)](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/) + [Dystributed Systems](https://csprimer.com/courses/distributed-systems/)
+
+Blog Posts:
+* ✅ Performance Engineering: C++ Extensions for Python
+* 🔨 Data Management for GenAI: Building a scalable foundation
