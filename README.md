@@ -11,10 +11,12 @@ Solutions to [CS Primer](https://csprimer.com/courses/) exercises accompanying t
 
 #### Blog Posts:
 * ✅ Performance Engineering: C++ Extensions for Python
-* 🔨 Data Management for GenAI: Building a scalable foundation
+* ✅ Data Management for GenAI: Building a scalable foundation: https://rewirenow.com/en/resources/blog/data-management-for-generative-ai-the-key-to-scaling-ai/
+* 🔨 MCPs
 
 #### Apps:
-* 🔨 CHAT: Chat interface to Confluence Weaviate integration
+* ✅ CHAT: Chat interface to Confluence Weaviate integration
+* 🔨 MCP Server + Client
 * (old) MAIL: E-mail server
 * (old) COMMERCE: Auction site
 
