@@ -112,17 +112,3 @@ source $ZSH/oh-my-zsh.sh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-
-# The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/daan.manneke/Desktop/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/daan.manneke/Desktop/google-cloud-sdk/path.zsh.inc'; fi
-
-# The next line enables shell command completion for gcloud.
-if [ -f '/Users/daan.manneke/Desktop/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/daan.manneke/Desktop/google-cloud-sdk/completion.zsh.inc'; fi
-
-
-export PATH="/Applications/SnowSQL.app/Contents/MacOS:$PATH"
-
-
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_rsa
-
